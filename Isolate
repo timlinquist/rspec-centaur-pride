@@ -1,0 +1,2 @@
+gem "rspec-pride"
+gem "test-align-centaur"
