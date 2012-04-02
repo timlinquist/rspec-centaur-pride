@@ -20,6 +20,15 @@ Or put those options in your `.rspec` file.
 * Make sure to add tests for it. This is important so I don't break it in a future version unintentionally.
 * Please try not to mess with the Rakefile, version, or history. If you want to have your own version, or is otherwise necessary, that is fine, but please isolate to its own commit so I can cherry-pick around it.
 
-# Copyright
+## Credits
+
+I didn't do much here except create the gem and inherit from RSpec::Pride. Kudos to Robert Pitts and Tim Pope whom already have a gem for formatting
+test output as a centaur. I am using their print method in this formatter. Another kudos to ferrous26 who wrote the RSpec::Pride formatter that this formatter inherits from.
+
+* https://github.com/ferrous26/rspec-pride/
+* https://github.com/tpope/test-align-centaur
+* https://github.com/rbxbx/centaur
+
+## Copyright
 
 Copyright (c) 2012 Tim Linquist. See LICENSE.txt for further details.
