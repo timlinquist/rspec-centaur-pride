@@ -1,5 +1,7 @@
 # centaur-pride
 
+![Screenshot](https://github.com/timlinquist/rspec-centaur-pride/raw/master/images/screenshot.png)
+
 Take pride in your centaur!
 
 ## How to use centaur-pride
